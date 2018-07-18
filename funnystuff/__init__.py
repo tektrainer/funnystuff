@@ -1,2 +1,2 @@
-def laugh:
+def laugh():
      print("ha ha")
